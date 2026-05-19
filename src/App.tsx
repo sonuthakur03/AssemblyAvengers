@@ -47,7 +47,7 @@ function App() {
     setGuessedLetters([]);
   };
 
-  console.log(currentWord);
+  // console.log(currentWord);
 
   return (
     <main className="flex-box flex-col mt-8 gap-8 w-[60%] mx-auto">
